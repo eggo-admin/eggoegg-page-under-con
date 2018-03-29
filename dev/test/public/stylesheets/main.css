@@ -8,7 +8,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #2196f3;
+    background-color: #0059b3;
     font-family: 'Lato', sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -91,7 +91,7 @@ span {
 }
 
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
